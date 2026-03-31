@@ -1,0 +1,6 @@
+crewai
+# crewai-tools
+icalendar
+requests
+twilio
+python-dotenv
